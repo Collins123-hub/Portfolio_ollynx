@@ -38,8 +38,8 @@ section {
 }
 
 .project img {
-    width: 150px; /* Adjust the width as needed */
-    height: auto; /* Keeps the aspect ratio intact */
+    width: 250px; /* Adjust the width as needed */
+    height: 175px; /* Keeps the aspect ratio intact */
     display: block;
     margin: 0 auto; /* Centers the image */
 }
