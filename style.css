@@ -5,7 +5,10 @@ body {
     color: #333;
 }
 
-header {
+header { h1 {
+    font-size: 3em; 
+    font-weight: bold;
+}
     text-align: center;
     padding: 20px;
     background: #007acc;
