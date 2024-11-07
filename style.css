@@ -37,12 +37,6 @@ section {
     margin-bottom: 15px;
 }
 
-.project img {
-    width: 250px; /* Adjust the width as needed */
-    height: 175px; /* Keeps the aspect ratio intact */
-    display: block;
-    margin: 0 auto; /* Centers the image */
-}
 
 footer {
     text-align: center;
